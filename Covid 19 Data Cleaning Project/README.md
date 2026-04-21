@@ -18,7 +18,7 @@ The goal of this project is to:
 
 ## 🗂️ Dataset Description
 
-The dataset (corona_data) includes the following columns:
+The dataset (corona_data.csv) includes the following columns:
 
 - Province – Region or state within a country
 
